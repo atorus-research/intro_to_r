@@ -1,6 +1,6 @@
 ---
-title: "Intro to R Demo"
-subtitle: "PHUSE US Connect 2021: Introduction to R for the Statistical Programmer"
+title: "Demonstration Markdown File"
+subtitle: "Introduction to R for the Statistical Programmer"
 author: "Mike Stackhouse"
 date: "6/9/2021"
 output:

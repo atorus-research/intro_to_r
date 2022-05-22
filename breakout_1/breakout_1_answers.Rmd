@@ -1,6 +1,6 @@
 ---
 title: "Breakout 1: Working With Data Frames"
-subtitle: "PHUSE US Connect 2021: Introduction to R for the Statistical Programmer"
+subtitle: "Introduction to R for the Statistical Programmer"
 author: "Atorus Research"
 output:
   rmarkdown::html_document:

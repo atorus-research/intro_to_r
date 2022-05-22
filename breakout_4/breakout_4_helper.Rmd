@@ -1,6 +1,6 @@
 ---
 title: "Breakout 4: Summarizing Data"
-subtitle: "PHUSE US Connect 2021: Introduction to R for the Statistical Programmer"
+subtitle: "Introduction to R for the Statistical Programmer"
 author: "Mike Stackhouse"
 date: "6/9/2021"
 output:

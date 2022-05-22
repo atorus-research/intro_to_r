@@ -1,5 +1,6 @@
 ---
 title: "Breakout 3: Deriving New Variables"
+subtitle: "Introduction to R for the Statistical Programmer"
 author: "Eli Miller"
 date: "6/8/2021"
 output:
